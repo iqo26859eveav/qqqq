@@ -10,7 +10,7 @@ public class PTL26 {
 		TWId id3 = new TWId(4);
 		TWId id4 = new TWId(7, true);
 		id1.getId();
-		System.out.println("234234324");
+		System.out.println("2324");
 		System.out.println(id1.getId() + ":" + (TWId.checkId(id1.getId())?"OK":"XX"));
 		System.out.println(id2.getId() + ":" + (TWId.checkId(id2.getId())?"OK":"XX"));
 		System.out.println(id3.getId() + ":" + (TWId.checkId(id3.getId())?"OK":"XX"));
